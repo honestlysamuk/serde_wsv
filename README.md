@@ -1,0 +1,1 @@
+Serde implementation for the WSV specification. See https://dev.stenway.com/WSV/
